@@ -1,48 +1,48 @@
 @media screen and (min-width: 1024px) {
-  .container {
-    max-width: 1250px;
-  }
+    .container {
+        max-width: 1250px;
 
-  h2,
-  .team-text {
-    text-align: left;
-  }
+    
+    }
 
-  /* Hero */
+    h2, .team-text {
+        text-align: left;
+    }
 
-  .hero-text,
-  .tools-text {
-    text-align: left;
-    width: 50%;
-  }
+    /* Hero */
 
-  /* Tools Section */
+    .hero-text, .tools-text {
+        text-align: left;
+        width: 50%;
+    }
 
-  .tools-flex,
-  .team-flex {
-    display: flex;
-    flex-direction: row-reverse;
-  }
+    /* Tools Section */
 
-  .textblock-flex {
-    display: flex;
-    flex-direction: column;
-    padding: 10px;
-  }
+    .tools-flex, .team-flex {
+        display: flex;
+        flex-direction: row-reverse;
+    }
 
-  .tools-text {
-    width: 100%;
-  }
+    .textblock-flex {
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+    }
 
-  .marketing-image,
-  .team-image {
-    width: 50%;
-    padding-left: 60px;
-  }
+    .tools-text {
+        width: 100%;
+    }
 
-  /* Teams Section */
+    .marketing-image, .team-image {
+        width: 50%;
+        padding-left: 60px;
+    }
 
-  .team-image {
-    padding-right: 60px;
-  }
+    /* Teams Section */
+
+    .team-image {
+        padding-right: 60px;
+    }
+
+
 }

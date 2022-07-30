@@ -1,93 +1,117 @@
+
+
+h2 {
+    font-size: 49px;
+    font-weight: 100;
+    text-align: center;
+}
+
+p {
+    font-size: 24px;
+    text-align: center;
+    font-weight: 100;
+    margin-top: 0px;
+
+}
+
 /* Hero */
 
 .hero {
-  background-color: var(--contrast);
+    background-color: var(--contrast);
 }
 
 /* Navbar */
 
 .logo-image {
-  width: 100px;
-  height: 100px;
+    width: 100px;
+    height: 100px;
 }
 
 .btn {
-  font-size: 15px;
-  font-weight: 600;
-  padding: 16px 30px;
-  background-color: #2979ec;
-  color: #fff;
-  border: none;
-  border-radius: 50px;
+    font-size: 15px;
+    font-weight:600;
+    padding: 16px 30px;
+    background-color: #2979EC;
+    color: #fff; 
+    border: none;
+    border-radius: 50px;
+   
+    
 }
 
 .navbar-flex {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 20px 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:  20px 16px;
 }
 
 .container {
-  margin-left: 9.4rem;
-  margin-right: 9.4rem;
-  padding-bottom: 100px;
-  display: flex;
-  flex-direction: column;
+    margin-left: 9.4rem;
+    margin-right: 9.4rem;
+    padding-bottom: 100px;
+    display: flex;
+    flex-direction: column;
 }
 
 /* Marketing Tools Section */
 
 .tools-flex {
-  display: flex;
-  flex-direction: column;
+    display: flex;
+    flex-direction: column;
 }
 
 .marketing-image {
-  order: -1;
-  margin-top: 60px;
-  margin-bottom: 60px;
+    order: -1;
+    margin-top: 60px;
+    margin-bottom: 60px;
 }
 
-h2 .tools-header {
-  font-size: 49px;
+h2 .tools-text {
+    font-size: 49px;
 }
 
 /* Team Section */
 
 .team-flex {
-  display: flex;
-  flex-direction: column;
+    display: flex;
+    flex-direction: column;
 }
 
 .team-image {
-  order: 4;
-  margin-top: 60px;
-  margin-bottom: 60px;
+    order: 4;
+    margin-top: 60px;
+    margin-bottom: 60px;
 }
 
 /* Footer */
 
 footer {
-  background-color: #0a459e;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+    background-color: #0A459E;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 footer h2 {
-  color: #ffffff;
-  font-size: 51px;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  padding-top: 49px;
-  padding-bottom: 32px;
+    color: #FFFFFF;
+    font-size: 51px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 49px;
+    padding-bottom: 32px;
 }
 
 footer .btn {
-  background-color: #ffbe3c;
-  color: #0a459e;
-  padding-top: 16px;
-  margin-top: 30px;
-  margin-bottom: 70px;
+    background-color: #FFBE3C;
+    color: #0A459E;
+    padding-top: 16px;
+    margin-top: 30px;
+    margin-bottom: 70px;
 }
+
+
+
+
+
+
